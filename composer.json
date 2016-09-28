@@ -1,0 +1,12 @@
+{
+    "name": "whsuite/addon-offlinepayment",
+    "type": "whsuite-addon",
+    "description": "Offline Payment plugin for use within WHSuite",
+    "license": "Private",
+    "authors": [
+        {
+            "name": "WHSuite",
+            "email": "info@whsuite.com"
+        }
+    ]
+}

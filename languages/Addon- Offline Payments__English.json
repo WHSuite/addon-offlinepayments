@@ -1,0 +1,25 @@
+{
+    "name": "English",
+    "slug": "en",
+    "is_active": "1",
+    "language_code": "en",
+    "text_direction": "LTR",
+    "addon": "offlinepayment",
+    "Strings": [
+        {
+            "slug": "offlinepayment_settings",
+            "text": "Offline Payment Settings"
+        },
+        {
+            "slug": "offlinepayment_final_page_title",
+            "text": "Final page title"
+        },
+        {
+            "slug": "offlinepayment_final_page_body",
+            "text": "Final page body"
+        }
+    ],
+    "EmailTemplates": [
+
+    ]
+}
